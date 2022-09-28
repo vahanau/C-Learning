@@ -1,0 +1,15 @@
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.csproj.AssemblyReference.cache
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.AssemblyInfoInputs.cache
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.AssemblyInfo.cs
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.csproj.CoreCompileInputs.cache
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\bin\Debug\net6.0\DZ_Task 19.exe
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\bin\Debug\net6.0\DZ_Task 19.deps.json
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\bin\Debug\net6.0\DZ_Task 19.runtimeconfig.json
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\bin\Debug\net6.0\DZ_Task 19.dll
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\bin\Debug\net6.0\DZ_Task 19.pdb
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.dll
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\refint\DZ_Task 19.dll
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.pdb
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\DZ_Task 19.genruntimeconfig.cache
+D:\Обучение Pyhton\Домашка\C# Homework\Homework 3\DZ_Task 19\obj\Debug\net6.0\ref\DZ_Task 19.dll
